@@ -8,6 +8,7 @@ import {
 } from "@/components/ui/table";
 import { Check, X } from "lucide-react";
 import { Button } from "@/components/ui/button";
+import { JSX } from "react";
 
 type PlanKey = "Beta" | "Gamma" | "Omega" | "Turbo" | "Custom";
 
